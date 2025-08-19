@@ -140,13 +140,3 @@ A **final year Computer Science project** developed to reduce food wastage and h
 - Ensure Apache & MySQL services are running before use  
 
 ---
-
-## ✍️ Developer
-
-> **Deepa Savita**  
-> Final Year B.Sc. Computer Science  
-> Passionate about solving real-world problems through code 💻  
-> 🌟 *Let’s feed the hungry by reducing food waste.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github&style=flat-square)](https://github.com/deepasavita)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/deepa-savita)
